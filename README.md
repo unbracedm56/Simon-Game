@@ -4,14 +4,9 @@ This is a web-based implementation of the classic Simon game. The objective of t
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-
-## Demo
-
-You can try out the game [here](link_to_demo).
 
 ## Features
 
@@ -21,6 +16,9 @@ You can try out the game [here](link_to_demo).
 - Visual effects for button presses and game over state.
 
 ## Installation
+To run this project locally:
+
+(Instead you can just click on the web link: https://unbracedm56.github.io/Simon-Game/)
 
 1. Clone the repository:
    ```bash
